@@ -16,3 +16,6 @@ E:\Computer Programing Study Material\Third Semester\Rapid Application\WindowsFo
 E:\Computer Programing Study Material\Third Semester\Rapid Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 E:\Computer Programing Study Material\Third Semester\Rapid Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Computer Programing Study Material\Third Semester\Rapid Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\iqor\assignment1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\iqor\assignment1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\iqor\assignment1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
